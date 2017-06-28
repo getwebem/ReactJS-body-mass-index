@@ -45,16 +45,16 @@ class App extends Component {
         <div className="App">
         <form>
           <div>
-            <label>Height</label>
+            <label>Height (cm)</label>
             <Range value={this.state.height} onChange={this.heightChange.bind(this)}/>
           </div>
           <div>
-            <label>Weight</label>
+            <label>Weight (kg)</label>
             <Range value={this.state.weight} onChange={this.weightChange.bind(this)}/>
 
           </div>
         </form> <br /><br />
-        <Output />
+        <Output data={this.state} />
         </div>
       </div>
     );
