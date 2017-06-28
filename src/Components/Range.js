@@ -16,6 +16,8 @@ static defaultProps = {
   }
   onChange(event){
     console.log(event.target.value);
+    this.props.onChange(this.state.value);
+    this.setState({value: event.target.value});
   }
 
 
