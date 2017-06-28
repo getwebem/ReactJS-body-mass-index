@@ -42,7 +42,7 @@ class App extends Component {
           <img src={logo} className="App-logo" alt="logo" />
           <h2>Body Mass Index</h2>
         </div>
-        <div className="App">
+        <div className="App-Range">
         <form>
           <div>
             <label>Height (cm)</label>
