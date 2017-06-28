@@ -10,7 +10,10 @@ class Output extends Component {
 
     return (
       <div className="output">
-        {height}
+        <h3>{height}</h3>
+        <h3>{weight}</h3>
+        <h3>{bmi}</h3>
+        <h3>{bmiClass}</h3>
       </div>
     );
   }
