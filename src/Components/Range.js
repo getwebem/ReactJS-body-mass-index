@@ -5,7 +5,7 @@ class Range extends Component {
   constructor(props){
     super(props);
     this.state = {
-      value: 160
+      value: props.value
     }
   }
 

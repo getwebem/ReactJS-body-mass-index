@@ -20,6 +20,11 @@ class App extends Component {
       console.log(this.state);
     });
   }
+  weightChange(weight){
+    this.setState({weight:weight}, function(){
+      console.log(this.state);
+    });
+  }
 
 
 
@@ -34,10 +39,11 @@ class App extends Component {
         <form>
           <div>
             <label>Height</label>
-            <Range onChange={this.heightChange.bind(this)}/>
+            <Range value={this.state.height} onChange={this.heightChange.bind(this)}/>
           </div>
           <div>
             <label>Weight</label>
+            <Range value={this.state.weight} onChange={this.weightChange.bind(this)}/>
 
           </div>
         </form> <br /><br />
