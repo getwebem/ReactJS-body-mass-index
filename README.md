@@ -9,21 +9,13 @@
 
 <br/><br/>
 <br/><br/>
-![pic1]()
+![pic1](https://raw.githubusercontent.com/getwebem/bodyMass/master/imgCover/Screen%20Shot%202017-06-29%20at%2008.08.44.png)
 <br/><br/>
 
 <br/><br/>
-![pic2]()
+![pic2](https://raw.githubusercontent.com/getwebem/bodyMass/master/imgCover/Screen%20Shot%202017-06-29%20at%2008.09.02.png)
 <br/><br/>
 
 <br/><br/>
-![pic3]()
-<br/><br/>
-
-<br/><br/>
-![pic4]()
-<br/><br/>
-
-<br/><br/>
-![pic5]()
+![pic3](https://raw.githubusercontent.com/getwebem/bodyMass/master/imgCover/Screen%20Shot%202017-06-29%20at%2008.09.55.png)
 <br/><br/>
